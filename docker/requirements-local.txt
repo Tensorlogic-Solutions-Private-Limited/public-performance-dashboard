@@ -1,0 +1,5 @@
+PyAthena[SQLAlchemy]>=2.0.0
+watchtower>=3.0.1
+boto3>=1.26.0
+authlib>=1.2.0
+
